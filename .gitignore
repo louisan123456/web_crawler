@@ -1,0 +1,16 @@
+*.json
+*.exe
+crawler/chromedriver/LICENSE.chromedriver
+*.pyc
+crawler/test.py
+crawler/基礎練習/test.py
+crawler/104_job_bank/data/104_job_bank(data analysis related).xlsx
+crawler/基礎練習/web_crawler_AJAX _XHR_Request_Data.ipynb
+*.csv
+*.log
+*.jpg
+*.db
+*.xlsx
+*.png
+*.chromedriver
+基礎練習/test.py
